@@ -4,7 +4,7 @@ const App = () => {
 
   return (
     <>
-        Future App
+        <p>мама я в телевизоре</p>
     </>
   )
 };
